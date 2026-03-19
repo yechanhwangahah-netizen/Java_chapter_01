@@ -9,5 +9,12 @@ public class _04_Commit {
         int size = 120;
         size = size +20;
         System.out.println("신발 사이즈" + size + "으로 보여주세여");
+
+        int a =10;
+        int b = 20;
+
+        System.out.println(a +b);
+
+
     }
 }
